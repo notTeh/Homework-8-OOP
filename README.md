@@ -83,7 +83,7 @@ If you have any questions about the repository, open an issue or contact me dire
 
 You can find more of my work at [GitHub](https://github.com/notTeh).
 
-#Usage
+## Usage
 
 https://github.com/user-attachments/assets/edfa0371-4460-4a9a-8668-46e5e555fb68
 
