@@ -15,6 +15,7 @@ This repository contains an object-oriented programming application for Homework
 - [Tests](#tests)
 - [License](#license)
 - [Questions](#questions)
+- [Usage](#Usage)
 
 ## Installation
 
@@ -81,6 +82,10 @@ This project is licensed under the MIT License. See the LICENSE file for details
 If you have any questions about the repository, open an issue or contact me directly at [your-email@example.com](mailto:your-email@example.com).
 
 You can find more of my work at [GitHub](https://github.com/notTeh).
+
+#Usage
+
+https://github.com/user-attachments/assets/edfa0371-4460-4a9a-8668-46e5e555fb68
 
 ---
 
